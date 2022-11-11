@@ -1,4 +1,5 @@
-# AI-Group1-Assignment1
+# Stream: Group A
+# AI-Group1-GroupAssignment1
 ## Instructions to Run Code: (AI Task One)
 1. Clone project and import on Jupyternotebook 
 2. Run the: **main.ipynb** file inside the (AI-Task-One) Folder
